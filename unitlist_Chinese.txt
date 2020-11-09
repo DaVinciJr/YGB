@@ -1,7 +1,7 @@
-����ĸ��� - ���͹�֮�� ��λ����
+尤里的复仇 - 共和国之辉 单位名称
 Yuri's Revenge - Republic of Glory
 
-=============������=============== 
+=============国家类=============== 
 
 GDI=British,French,Germans,Americans,Alliance
 
@@ -9,471 +9,471 @@ Nod=Russians,Confederation,Africans,Arabs
 
 ThirdSide=YuriCountry
 
-FourthSide=China(Country10)--[���͹�֮��]
+FourthSide=China(Country10)--[共和国之辉]
 
-=============������=============== 
+=============建筑类=============== 
 
-�˾�����
+盟军建筑
 
-GACNST �˾����쳡
-GAPOWR ���糧 
-GAPILE �˾���Ӫ
-GAREFN �˾���ʯ������ 
-GAWEAP �˾�ս������ 
-GAAIRC ��ָ��
-GAYARD �˾��촬�� 
-GADEPT �˾�ά�޳� 
-GATECH �˾���սʵ���� 
-GAOREP ��ʯ������ 
-GAROBO ��������
+GACNST 盟军建造场
+GAPOWR 发电厂 
+GAPILE 盟军兵营
+GAREFN 盟军矿石精炼厂 
+GAWEAP 盟军战车工厂 
+GAAIRC 空指部
+GAYARD 盟军造船厂 
+GADEPT 盟军维修厂 
+GATECH 盟军作战实验室 
+GAOREP 矿石精炼器 
+GAROBO 控制中心
 
-���ط���/��������
+基地防御/超级武器
 
-GAWALL �˾�Χǽ 
-GAPILL ��ǹ�ﱤ --- Vulcan2 
-NASAM �����߷ɵ� --- RedEye2 
-ATESLA ������ --- PrismShot / PrismSupport 
-GASPYSAT ������� 
-GAGAP �ѷ������ 
-GACSPH ��ʱ�մ����� --- ChronoSphereSpecial 
-GAWEAT �������ƻ� --- LightningStormSpecial 
+GAWALL 盟军围墙 
+GAPILL 机枪碉堡 --- Vulcan2 
+NASAM 爱国者飞弹 --- RedEye2 
+ATESLA 光棱塔 --- PrismShot / PrismSupport 
+GASPYSAT 间谍卫星 
+GAGAP 裂缝产生器 
+GACSPH 超时空传送仪 --- ChronoSphereSpecial 
+GAWEAT 天气控制机 --- LightningStormSpecial 
 
-����
+特殊
 
-AMRADR ��ָ�� --- AmericanParaDropSpecial 
-GTGCAN ���� --- GrandCannonWeapon 
+AMRADR 空指部 --- AmericanParaDropSpecial 
+GTGCAN 巨炮 --- GrandCannonWeapon 
 
-��������
+联军建筑
 
-NACNST �������쳡 
-NAPOWR ���ܷ�Ӧ¯ 
-NAHAND ������Ӫ 
-NAREFN ������ʯ������ 
-NAWEAP ����ս������ 
-NARADR �״� --- SpyPlaneSpecial 
-NAYARD ��������
-NADEPT ����ά�޹����� 
-NATECH ������սʵ���� 
-NANRCT ���ӷ�Ӧ¯ --- NukePayload--[���͹�֮��] 
-NAINDP ��ҵ���� 
+NACNST 苏联建造场 
+NAPOWR 磁能反应炉 
+NAHAND 苏联兵营 
+NAREFN 苏联矿石精炼厂 
+NAWEAP 苏联战车工厂 
+NARADR 雷达 --- SpyPlaneSpecial 
+NAYARD 苏联船坞
+NADEPT 苏联维修工厂　 
+NATECH 苏联作战实验室 
+NANRCT 核子反应炉 --- NukePayload--[共和国之辉] 
+NAINDP 工业工厂 
 
-���ط���/��������
+基地防御/超级武器
 
-NAWALL ����Χǽ 
-NALASR �ڽ��� --- Vulcan 
-NAFLAK ������ --- FlakWeapon 
-TESLA �ű���Ȧ --- CoilBolt / OPCoilBolt 
-NABNKR ս���ﱤ 
-NAIRON ��Ļװ�� --- IronCurtainSpecial 
-NAMISL �˵����侮 --- NukeSpecial
+NAWALL 苏联围墙 
+NALASR 哨戒炮 --- Vulcan 
+NAFLAK 防空炮 --- FlakWeapon 
+TESLA 磁爆线圈 --- CoilBolt / OPCoilBolt 
+NABNKR 战斗碉堡 
+NAIRON 铁幕装置 --- IronCurtainSpecial 
+NAMISL 核弹发射井 --- NukeSpecial
 
-���ｨ��
+尤里建筑
 
-YACNST ���ｨ�쳡 
-YAPOWR ������Ӧ¯ 
-YABRCK �����Ӫ 
-YACOMD ����ָ�����ģ�δʹ�ã�
-YAREFN ū���� 
-YAWEAP ����ս������ 
-NAPSIS ����̽���� --- PsychicRevealSpecial 
-YAYARD ���ﺣ������
-YADEPT �˾�ά�޳���δʹ�ã�
-YATECH ������սʵ���� 
-YAGRND ���ӻ��ճ�
-NACLON ��������
+YACNST 尤里建造场 
+YAPOWR 生化反应炉 
+YABRCK 尤里兵营 
+YACOMD 尤里指挥中心（未使用）
+YAREFN 奴隶矿场 
+YAWEAP 尤里战车工厂 
+NAPSIS 心灵探测器 --- PsychicRevealSpecial 
+YAYARD 尤里海军船坞
+YADEPT 盟军维修厂（未使用）
+YATECH 尤里作战实验室 
+YAGRND 部队回收厂
+NACLON 复制中心
 
-���ط���/��������
+基地防御/超级武器
 
-GAFWLL ����ǽ 
-YAGGUN ���ػ��� 
-YAPSYT ��������� --- MultipleMindControlTower 
-NATBNK ̹�˵ﱤ 
-YAGNTC ����ͻ���� --- GeneticConverterSpecial 
-YAPPET ��������� --- PsychicDominatorSpecial 
-YAROCK ���������δʹ�ã�
+GAFWLL 护城墙 
+YAGGUN 盖特机炮 
+YAPSYT 心灵控制塔 --- MultipleMindControlTower 
+NATBNK 坦克碉堡 
+YAGNTC 基因突变器 --- GeneticConverterSpecial 
+YAPPET 心灵控制器 --- PsychicDominatorSpecial 
+YAROCK 不明建筑物（未使用）
 
-�й�����
+中国建筑
 
-CACNST �й����쳧--[���͹�֮��]
-CAPOWER �й����糧--[���͹�֮��] 
-CAHAND �й���Ӫ--[���͹�֮��]
-CAREFN �й���ʯ������--[���͹�֮��]
-CAWEAP �й�ս������--[���͹�֮��]
-CARADR �й��״� --- ParaDropSpecial--[���͹�֮��]
-CAYARD �й�����--[���͹�֮��]
-CADEPT �й�ά�޹���--[���͹�֮��]
-CATECH �й���սʵ����--[���͹�֮��] 
-CANRCT ���ӷ�Ӧ�� --- NukePayload--[���͹�֮��]
-CAARMR �����ѵ������--[���͹�֮��]
-CACNFGL �й����죨�����ѵ������ģ�ͣ�--[���͹�֮��]
+CACNST 中国建造厂--[共和国之辉]
+CAPOWER 中国发电厂--[共和国之辉] 
+CAHAND 中国兵营--[共和国之辉]
+CAREFN 中国矿石精炼厂--[共和国之辉]
+CAWEAP 中国战车工厂--[共和国之辉]
+CARADR 中国雷达 --- ParaDropSpecial--[共和国之辉]
+CAYARD 中国船坞--[共和国之辉]
+CADEPT 中国维修工厂--[共和国之辉]
+CATECH 中国作战实验室--[共和国之辉] 
+CANRCT 核子反应堆 --- NukePayload--[共和国之辉]
+CAARMR 国民兵训练中心--[共和国之辉]
+CACNFGL 中国国旗（国民兵训练中心模型）--[共和国之辉]
 
-���ط���/��������
+基地防御/超级武器
 
-CAWALL �й�Χǽ--[���͹�֮��]
-CAPILL ����ﱤ --- FireballLauncher--[���͹�֮��]
-CSAM ����ﱤ --- RedEye3 --[���͹�֮��]
-CTESLA ������ --- PrismShot--[���͹�֮��]
-CASPYSAT �������--[���͹�֮��]
-CACSPH ��ʱ�մ����� --- ChronoSphereSpecial --[���͹�֮��]
-CAWEAT ���������� --- LightningStormSpecial --[���͹�֮��]
-CAMISL �˵����侮 --- ChinaNukeSpecial--[���͹�֮��]
+CAWALL 中国围墙--[共和国之辉]
+CAPILL 火焰碉堡 --- FireballLauncher--[共和国之辉]
+CSAM 火箭碉堡 --- RedEye3 --[共和国之辉]
+CTESLA 光棱塔 --- PrismShot--[共和国之辉]
+CASPYSAT 间谍卫星--[共和国之辉]
+CACSPH 超时空传送仪 --- ChronoSphereSpecial --[共和国之辉]
+CAWEAT 天气控制器 --- LightningStormSpecial --[共和国之辉]
+CAMISL 核弹发射井 --- ChinaNukeSpecial--[共和国之辉]
 
-����
+其他
 
-GASAND ɳǽ 
-CAAIRP �Ƽ����� --- ParaDropSpecial 
-CAOILD �Ƽ����ͳ� --- ProduceCashStartup= @ ProduceCashAmount= @ ProduceCashDelay= 
-CAHOSP ����ҽԺ [RA2] 
-CAMACH �Ƽ������̵� 
-CAOUTP �Ƽ�ǰ��վ --- HoverMissile 
-CAPOWR �Ƽ��糧 
-CASLAB ���ܿƼ�ʵ���� 
-CATHOSP �Ƽ�ҽԺ [YR] 
-CATIME01 ʱ����� 
-CATIME02 ʱ����� 
-CALAB ����˹̹ʵ���� 
-GATE1 բ�� 
-CABUNK01-04  ȼ�Ͽ� 
-CABHUT ����ά��С�� 
-CAGARD01 ������ 
-CAMIAM04 ����Ա��Ϣͤ 
-CAUSFGL �������� 
-CACUFGL �Ű͹��� 
-CAFRFGL �������� 
-CAGEFGL �¹����� 
-CAIRFGL �����˹��� 
-CALBFGL �����ǹ��� 
-CARUFGL �������� 
-CAUKFGL Ӣ������ 
-CASKFGL �������� 
-CALOND04 Ӣ������ 
-CALOND05 ���� 
-CALOND06 �׶��� 
-CAMORR06 ���˾ƹ� 
-CAEGYP01 ������ 
-CAEGYP02 ������ 
-CAEGYP03 ������ 
-CASEAT01 ����ͼ̫������ 
-CASEAT02 ����԰�� 
-CASTL04 ���� 
-CASYDN03 ѩ����Ժ 
-CAEAST01 ���ʯ�� 
-CAEAST02 ������� --- PrismShot 
-CATRAN03 ����Ҫ�� 
-CAEGYP03 ����ʨ���� 
-CALUNR01 ����Сͧ 
-CAMIAM08 ����ɣ�Ǽ���� 
-CAPRS03 ���羪�沩��� 
-CACHIG04 ֥�Ӹ�Э���¥ 
-CAEURO05 ���� 
-CAFARM06 ���� 
-CAPARS01 ���ƶ����� 
-CAPARS11 ���迭���� 
-CAWASH14 �ܷ�ѷ����� 
-CAWASH19 ʤ����� 
-CAWASH15 �ֿϼ���� 
-CARUS03 ����ķ�ֹ� 
-CAWASH01 �׹� 
-CATRAN01 �ؽ� 
-CAWASH19 ʤ����� 
-CACOLO01 �վ�ѧԺ����� 
-CARUS08 - 11  ��״ϷԺ 
-CAMISC06=V3 �ɵ� 
-CAARMY01-04  ����Ӫ�� 
-CAFRMB  �ƶ�ʽ���� 
-CATECH01  ͨѶ���� 
-AMMOCRAT  ��ҩ�� 
-CAMISC01-02  ��Ͱ  
+GASAND 沙墙 
+CAAIRP 科技机场 --- ParaDropSpecial 
+CAOILD 科技钻油厂 --- ProduceCashStartup= @ ProduceCashAmount= @ ProduceCashDelay= 
+CAHOSP 市民医院 [RA2] 
+CAMACH 科技机器商店 
+CAOUTP 科技前哨站 --- HoverMissile 
+CAPOWR 科技电厂 
+CASLAB 秘密科技实验室 
+CATHOSP 科技医院 [YR] 
+CATIME01 时间机器 
+CATIME02 时间机器 
+CALAB 爱因斯坦实验室 
+GATE1 闸门 
+CABUNK01-04  燃料库 
+CABHUT 桥梁维修小屋 
+CAGARD01 警卫哨 
+CAMIAM04 救生员休息亭 
+CAUSFGL 美国国旗 
+CACUFGL 古巴国旗 
+CAFRFGL 法国国旗 
+CAGEFGL 德国国旗 
+CAIRFGL 伊拉克国旗 
+CALBFGL 利比亚国旗 
+CARUFGL 俄国国旗 
+CAUKFGL 英国国旗 
+CASKFGL 韩国国旗 
+CALOND04 英国国会 
+CALOND05 大笨钟 
+CALOND06 伦敦塔 
+CAMORR06 理克酒馆 
+CAEGYP01 金字塔 
+CAEGYP02 金字塔 
+CAEGYP03 金字塔 
+CASEAT01 西雅图太空针塔 
+CASEAT02 巨软园区 
+CASTL04 拱门 
+CASYDN03 雪梨歌剧院 
+CAEAST01 复活岛石像 
+CAEAST02 尤里雕像 --- PrismShot 
+CATRAN03 尤里要塞 
+CAEGYP03 人面狮身像 
+CALUNR01 登月小艇 
+CAMIAM08 亚历桑那纪念馆 
+CAPRS03 世界惊奇博物馆 
+CACHIG04 芝加哥协会大楼 
+CAEURO05 雕像 
+CAFARM06 灯塔 
+CAPARS01 艾菲尔铁塔 
+CAPARS11 巴黎凯旋门 
+CAWASH14 杰佛逊纪念馆 
+CAWASH19 胜利纪念碑 
+CAWASH15 林肯纪念馆 
+CARUS03 克里姆林宫 
+CAWASH01 白宫 
+CATRAN01 地窖 
+CAWASH19 胜利纪念碑 
+CACOLO01 空军学院礼拜堂 
+CARUS08 - 11  球状戏院 
+CAMISC06=V3 飞弹 
+CAARMY01-04  军队营帐 
+CAFRMB  移动式厕所 
+CATECH01  通讯中心 
+AMMOCRAT  弹药箱 
+CAMISC01-02  油桶  
 
-=============ʿ����==============  
+=============士兵类==============  
   
-��������---------��ע������-����һ������-���ڶ������� 
+中文名）---------（注册名）-（第一武器）-（第二武器） 
 
-����ʿ��
+隐藏士兵
 
-��ʱ��ͻ����------------CCOMAND  �� ͵ ��[����]--ChronoMP5 / FakeC4 
-                                 �� ͵ ��
-����ͻ����--------------PTROOP   �� ͵ ��[YR][����]--MindControl
-                        PTROOP2  �� ͵ �� 
-                        PTROOP3  �� ͵ ��
-��ʱ������--------------CIVAN    �� ͵ ��[����]--IvanBomber 
-                        CIVAN2   �� ͵ ��
-                        CIVAN3   �� ͵ ��
-�����------------------YURIPP   �� ͵ ��[����]--SuperMindControl--[���͹�֮��]
-                                 �� ͵ ��
-�ѻ�ս����------------LONGSTLN  �� ͵ ��
-                        LONGSTLN2 �� ͵ ��
-                        LONGSTLN3 �� ͵ ��
-������ı�--------------IVANSTLN  �� ͵ ��
-                                 �� ͵ ��
-
-
-
-
-�˾�ʿ��
-
-�������----------------E1--M60 / Para /UCPara��UCElitePara--[���͹�֮��]  
-�˾���Ȯ----------------ADOG--GoodTeeth / VirtualScanner--[���͹�֮��]    
-�˾�����ʦ--------------ENGINEER--DefuseKit / VirtualScanner--[���͹�֮��]  
-�ػ����----------------GGI--M60 / MissileLauncher  
-������б�--------------JUMPJET--20mm--[���͹�֮��]  
-���--------------------SPY--MakeupKit--[���͹�֮��]  
-��������----------------GHOST--MP5 / Sapper / C4=yes  
-̷��--------------------TANY--DoublePistols / Sapper  
-��ʱ�վ��ű�------------CLEG--NeutronRifle  
+超时空突击队------------CCOMAND  盟 偷 盟[隐藏]--ChronoMP5 / FakeC4 
+                                 中 偷 盟
+心灵突击队--------------PTROOP   盟 偷 尤[YR][隐藏]--MindControl
+                        PTROOP2  尤 偷 盟 
+                        PTROOP3  苏 偷 中
+超时空伊文--------------CIVAN    盟 偷 苏[隐藏]--IvanBomber 
+                        CIVAN2   苏 偷 盟
+                        CIVAN3   尤 偷 中
+尤里改------------------YURIPP   尤 偷 尤[隐藏]--SuperMindControl--[共和国之辉]
+                                 中 偷 尤
+狙击战斗兵------------LONGSTLN  苏 偷 尤
+                        LONGSTLN2 尤 偷 苏
+                        LONGSTLN3 盟 偷 中
+冲锋伊文兵--------------IVANSTLN  苏 偷 苏
+                                 中 偷 苏
 
 
 
-����
 
-�ѻ���------------------SNIPE---AWP   
+盟军士兵
 
-����ʿ��
-
-��Ա��------------------E2--M1Carbine / UCM1Carbine��UCEliteM1Carbine--[���͹�֮��]  
-�վ���Ȯ----------------DOG--BadTeeth / VirtualScanner  
-���ղ���----------------FLAKT--FlakGuyGun / FlakGuyAAGun  
-�վ�����ʦ--------------SENGINEER--DefuseKit / VirtualScanner--[���͹�֮��]  
-�ű�����----------------SHK--ElectricBolt / AssaultBolt
-���--------------------SPY--MakeupKit--[���͹�֮��] 
-�������----------------IVAN--IvanBomber 
-���ս����--------------BORISJR
-���Y˹------------------BORIS--AKM / Flare 
-
-������б� -------------LUNR--Lunarlaser������սδʹ�ã��վ������г��֣�
+美国大兵----------------E1--M60 / Para /UCPara，UCElitePara--[共和国之辉]  
+盟军警犬----------------ADOG--GoodTeeth / VirtualScanner--[共和国之辉]    
+盟军工程师--------------ENGINEER--DefuseKit / VirtualScanner--[共和国之辉]  
+守护大兵----------------GGI--M60 / MissileLauncher  
+火箭飞行兵--------------JUMPJET--20mm--[共和国之辉]  
+间谍--------------------SPY--MakeupKit--[共和国之辉]  
+海豹部队----------------GHOST--MP5 / Sapper / C4=yes  
+谭雅--------------------TANY--DoublePistols / Sapper  
+超时空军团兵------------CLEG--NeutronRifle  
 
 
-����
 
-�ֲ�����----------------TERROR--TerrorBomb  
-���乤��----------------DESO--RadBeamWeapon / RadEruptionWeapon  
+特殊
 
-����ʿ��
+狙击手------------------SNIPE---AWP   
 
-�����±�----------------INIT--PsychicJab / UCPsychicJab��UCElitePsychicJab  
-���ﾯȮ----------------YADOG--GoodTeeth / VirtualScanner��δʹ�ã�
-���ﾯȮ----------------YDOG--BadTeeth / VirtualScanner��δʹ�ã� 
-ū����----------------SLAV--SHOVEL  
-���﹤��ʦ--------------YENGINEER--DefuseKit / VirtualScanner--[���͹�֮��]
-������------------------BRUTE--Punch / Smash  
-���--------------------SPY--MakeupKit--[���͹�֮��] 
-�����ѻ���--------------VIRUS--Virusgun  
-��¡����----------------YURI--MindControl / PsiWave  
-��������----------------YURIPR--SuperMindControl / SuperPsiWave  
-����������б� ---------YLUNR--Lunarlaser
+联军士兵
 
-�й�ʿ��
+动员兵------------------E2--M1Carbine / UCM1Carbine，UCEliteM1Carbine--[共和国之辉]  
+苏军警犬----------------DOG--BadTeeth / VirtualScanner  
+防空步兵----------------FLAKT--FlakGuyGun / FlakGuyAAGun  
+苏军工程师--------------SENGINEER--DefuseKit / VirtualScanner--[共和国之辉]  
+磁爆步兵----------------SHK--ElectricBolt / AssaultBolt
+间谍--------------------SPY--MakeupKit--[共和国之辉] 
+疯狂伊文----------------IVAN--IvanBomber 
+冲锋战斗兵--------------BORISJR
+鲍裏斯------------------BORIS--AKM / Flare 
 
-��ž�սʿ--------------PLA(Country10SW)--M60 / Para /UCPara��UCElitePara--[���͹�֮��]
-��Ȯ--------------CDOG--GoodTeeth / VirtualScanner--[���͹�֮��]
-����ʦ--------------CENGINEER--DefuseKit / VirtualScanner--[���͹�֮��]
-�й��ػ����----------------CGGI--M60 / MissileLauncher
-���--------------------SPY--MakeupKit--[���͹�֮��]
-��������--------------CGHOST--MP5 / Sapper / C4=yes--[���͹�֮��]
-��ʱ�վ��ű�--------------CCLEG--NeutronRifle--[���͹�֮��]
-�й�������б� -----------CLUNR--Lunarlaser
+月球飞行兵 -------------LUNR--Lunarlaser（遭遇战未使用，苏军剧情有出现）
 
-����
 
-�ս���------------------ARND--TERMIGUN  
-����--------------------STLN--STALGUN / STALGREN  
-��ǹ��------------------CLNT---CLINTGUN  
+特殊
+
+恐怖分子----------------TERROR--TerrorBomb  
+辐射工兵----------------DESO--RadBeamWeapon / RadEruptionWeapon  
+
+尤里士兵
+
+尤里新兵----------------INIT--PsychicJab / UCPsychicJab，UCElitePsychicJab  
+尤里警犬----------------YADOG--GoodTeeth / VirtualScanner（未使用）
+尤里警犬----------------YDOG--BadTeeth / VirtualScanner（未使用） 
+奴隶矿工----------------SLAV--SHOVEL  
+尤里工程师--------------YENGINEER--DefuseKit / VirtualScanner--[共和国之辉]
+狂兽人------------------BRUTE--Punch / Smash  
+间谍--------------------SPY--MakeupKit--[共和国之辉] 
+病毒狙击手--------------VIRUS--Virusgun  
+克隆尤里----------------YURI--MindControl / PsiWave  
+超级尤里----------------YURIPR--SuperMindControl / SuperPsiWave  
+尤里月球飞行兵 ---------YLUNR--Lunarlaser
+
+中国士兵
+
+解放军战士--------------PLA(Country10SW)--M60 / Para /UCPara，UCElitePara--[共和国之辉]
+警犬--------------CDOG--GoodTeeth / VirtualScanner--[共和国之辉]
+工程师--------------CENGINEER--DefuseKit / VirtualScanner--[共和国之辉]
+中国守护大兵----------------CGGI--M60 / MissileLauncher
+间谍--------------------SPY--MakeupKit--[共和国之辉]
+海豹部队--------------CGHOST--MP5 / Sapper / C4=yes--[共和国之辉]
+超时空军团兵--------------CCLEG--NeutronRifle--[共和国之辉]
+中国月球飞行兵 -----------CLUNR--Lunarlaser
+
+其他
+
+终结者------------------ARND--TERMIGUN  
+蓝波--------------------STLN--STALGUN / STALGREN  
+快枪手------------------CLNT---CLINTGUN  
  
-�ع�--------------------SJJD--û������� 
+特工--------------------SJJD--没有这个人 
 
-ƽ��--------------------CIV1 ���·�Ů  
-         -------CIV2 ���·�  
-         -------CIV3 ��ʦ  
-         -------CIVA ������  
-         -------CIVB ţ��  
-         -------CIVC ��������  
-         -------CIVBBP ����Ա  
-         -------CIVBFM ��̲����  
-         -------CIVBF ��̲Ů  
-         -------CIVBTM ��̲����  
-         -------CIVSFM ����  
-         -------CIVSF ���·�Ů  
-         -------CIVSTM ���·�  
-���·�����---------------VLADIMIR  
-���·�����---------------PENTGEN  
-��������----------------CTECH  
+平民--------------------CIV1 黄衣服女  
+         -------CIV2 白衣服  
+         -------CIV3 技师  
+         -------CIVA 工人样  
+         -------CIVB 牛仔  
+         -------CIVC 黑衣蓝裤  
+         -------CIVBBP 棒球员  
+         -------CIVBFM 海滩胖男  
+         -------CIVBF 海滩女  
+         -------CIVBTM 海滩瘦男  
+         -------CIVSFM 老人  
+         -------CIVSF 红衣服女  
+         -------CIVSTM 黑衣服  
+黄衣服将军---------------VLADIMIR  
+绿衣服将军---------------PENTGEN  
+苏联卫兵----------------CTECH  
         -------WEEDGUY  
-����--------------------CAML =YR  
-��ţ--------------------COW  
-����--------------------ALL --- AlligatorBite / VirtualScanner  
-������------------------POLARB --- BearBite / VirtualScanner  
-���� ------------------DNOA =YR  
-����--------------------DNOB =YR  
-��----------------------JOSH --- ChimpBite / VirtualScanner  
-�ռ�����----------------SSRV -- Pistola  
-��ͳ--------------------PRES  
-����ŵ������------------RMNV =YR  
-����˹̹----------------EINS =YR  
-ľ����-----------------MUMY =YR  
+骆驼--------------------CAML =YR  
+奶牛--------------------COW  
+鄂鱼--------------------ALL --- AlligatorBite / VirtualScanner  
+北极熊------------------POLARB --- BearBite / VirtualScanner  
+暴龙 ------------------DNOA =YR  
+腕龙--------------------DNOB =YR  
+猴----------------------JOSH --- ChimpBite / VirtualScanner  
+终级保镖----------------SSRV -- Pistola  
+总统--------------------PRES  
+洛马诺夫总理------------RMNV =YR  
+爱因斯坦----------------EINS =YR  
+木乃伊-----------------MUMY =YR  
      -------------WWLF =YR  
 
-==============�ؾ���==============
+==============载具类==============
 
-�˾��ؾ�
+盟军载具
 
-����̹��----------------MTNK--105mm--[���͹�֮��] 
-����̹�ˣ�������̬��------DMTK--105mm--[���͹�֮��] 
-�๦�ܲ�����------------FV--HoverMissile  
-��Ӱ̹��----------------MGTK--MirageGun--[���͹�֮��]  
-����̹��----------------SREF--Comet/SuperComet  
-ս��Ҫ��----------------BFRT--20mmRapid  
-�˾����س�--------------AMCV
+灰熊坦克----------------MTNK--105mm--[共和国之辉] 
+灰熊坦克（部署形态）------DMTK--105mm--[共和国之辉] 
+多功能步兵车------------FV--HoverMissile  
+幻影坦克----------------MGTK--MirageGun--[共和国之辉]  
+光陵坦克----------------SREF--Comet/SuperComet  
+战斗要塞----------------BFRT--20mmRapid  
+盟军基地车--------------AMCV
   
-��������ͧ--------------LCRF
+两栖运输艇--------------LCRF
                         FLCRF  
-����------------------DEST--155mm / ASWLauncher��ASW  
-����--------------------DLPH--SonicZap  
-���Ѳ��--------------AEGIS--Medusa  
-����ĸ��----------------CARRIER--HornetLauncher / HORNET
+驱逐舰------------------DEST--155mm / ASWLauncher，ASW  
+海豚--------------------DLPH--SonicZap  
+神盾巡洋舰--------------AEGIS--Medusa  
+航空母舰----------------CARRIER--HornetLauncher / HORNET
   
-��ʱ�տ󳵣�����------CMON **  
-��ʱ�տ�--------------CMIN  
-������̹��--------------ROBO--Robogun  
+超时空矿车（倒矿）------CMON **  
+超时空矿车--------------CMIN  
+机器人坦克--------------ROBO--Robogun  
 
-����
+特殊
 
-̹��ɱ��----------------TNKD--SABOT  
-(�޸��˸��й�)����--------------HOWI[���أ�Ҫ�޸�ini]--HowitzerGun  
+坦克杀手----------------TNKD--SABOT  
+(修改了给中国)榴弹炮--------------HOWI[隐藏，要修改ini]--HowitzerGun  
 
-�վ��ؾ�
+苏军载具
 
-�ֲ�������--------------DRON--DroneJump / VirtualScanner  
-���ճ�------------------HTK--FlakTrackGun / FlakTrackAAGun  
-Ϭţ̹��----------------HTNK--120mm
-��̹��----------------SLTNK[���أ�Ҫ�޸�ini]--90mm--[���͹�֮��]
-V3������䳵------------V3--V3Launcher / V3ROCKET  
-����̹��----------------APOC--120mmx / MammothTusk  
-�վ����س�--------------SMCV
+恐怖机器人--------------DRON--DroneJump / VirtualScanner  
+防空车------------------HTK--FlakTrackGun / FlakTrackAAGun  
+犀牛坦克----------------HTNK--120mm
+轻坦克----------------SLTNK[隐藏，要修改ini]--90mm--[共和国之辉]
+V3火箭发射车------------V3--V3Launcher / V3ROCKET  
+天启坦克----------------APOC--120mmx / MammothTusk  
+苏军基地车--------------SMCV
   
-װ���˱���--------------SAPC
+装甲运兵船--------------SAPC
                         FSAPC
-��Ы--------------------HYD--FlakTrackGun / FlakWeapon  
-̨�缶����Ǳͧ----------------SUB--SubTorpedo  
-��������----------------SQD--SquidGrab / SquidPunch  
-��η��ս��--------------DRED--DredLauncher / DMISL 
+海蝎--------------------HYD--FlakTrackGun / FlakWeapon  
+台风级攻击潜艇----------------SUB--SubTorpedo  
+巨型乌贼----------------SQD--SquidGrab / SquidPunch  
+无畏级战舰--------------DRED--DredLauncher / DMISL 
  
-�վ��󳵣�����--------HORV **  
-�վ���----------------HARV--20mmRapid  
-ZZZ̹��----------------UTNK��δʹ�ã�
+苏军矿车（倒矿）--------HORV **  
+苏军矿车----------------HARV--20mmRapid  
+ZZZ坦克----------------UTNK（未使用）
 
-����
+特殊
 
-�ű�̹��----------------TTNK --TankBolt  
-�Ա�����----------------DTRUCK--Demobomb / none  
+磁爆坦克----------------TTNK --TankBolt  
+自爆卡车----------------DTRUCK--Demobomb / none  
 
-�����ؾ�
+尤里载具
 
-���̹��----------------LTNK--ATGUN
-���ֻ���̹��------------YTNK--AGGattling  
-�ŵ�̹��----------------TELE--MagneticBeam / MagneShake  
-�߻���------------------MIND--MultipleMindControlTank  
-�����ĸ�----------------DISK--DiskLaser / DiskDrain  
-��ͻ����--------------CAOS--ChaosAttack / VirtualScanner  
-������س�--------------PCV 
+狂风坦克----------------LTNK--ATGUN
+格林机炮坦克------------YTNK--AGGattling  
+磁电坦克----------------TELE--MagneticBeam / MagneShake  
+策划者------------------MIND--MultipleMindControlTank  
+镭射幽浮----------------DISK--DiskLaser / DiskDrain  
+神经突击车--------------CAOS--ChaosAttack / VirtualScanner  
+尤里基地车--------------PCV 
 
-�������洬--------------YHVR
+尤里气垫船--------------YHVR
                         FYHVR  
-����Ǳͧ----------------BSUB--BoomerTorpedo / CruiseLauncher CMISL  
+雷鸣潜艇----------------BSUB--BoomerTorpedo / CruiseLauncher CMISL  
 
-ū����----------------SMON--[ж��]  
-ū����----------------SMIN--20mmRapid  
+奴隶矿车----------------SMON--[卸矿]  
+奴隶矿车----------------SMIN--20mmRapid  
 
-�й��ؾ�
+中国载具
 
-��̹��----------------CLTNK--120mm--[���͹�֮��]
-�๦�ܲ���ս����----------------CFV--HoverMissile--[���͹�֮��]
-V3 ������䳵----------------CV3--V3Launcher / V3ROCKET--[���͹�֮��]
-����̹��----------------CAPOC--120mmx / MammothTusk--[���͹�֮��]
-�й��ƶ����س�----------------CMCV--[���͹�֮��]
- ���Ӻ�ɾ�� �й�ս��Ҫ��------------CBFRT
-�й�������̹��--------------CROBO--Robogun 
+轻坦克----------------CLTNK--120mm--[共和国之辉]
+多功能步兵战斗车----------------CFV--HoverMissile--[共和国之辉]
+V3 火箭发射车----------------CV3--V3Launcher / V3ROCKET--[共和国之辉]
+天启坦克----------------CAPOC--120mmx / MammothTusk--[共和国之辉]
+中国移动基地车----------------CMCV--[共和国之辉]
+ 增加后删除 中国战斗要塞------------CBFRT
+中国机器人坦克--------------CROBO--Robogun 
 
- ɾ�� ����----------------CEST--155mm / ASWLauncher��ASW--[���͹�֮��]
- ���� ���Ѳ��------------CAEGIS
-̨�缶����Ǳͧ----------------CSUB--SubTorpedo--[���͹�֮��]
-����----------------CDLPH--SonicZap--[���͹�֮��]
- ɾ�� ��η��ս��----------------CDRED--DredLauncher / DMISL--[���͹�֮��]
-����ĸ��----------------CCARRIER--HornetLauncher / HORNET--[���͹�֮��]
+ 删除 驱逐舰----------------CEST--155mm / ASWLauncher，ASW--[共和国之辉]
+ 增加 神盾巡洋舰------------CAEGIS
+台风级攻击潜艇----------------CSUB--SubTorpedo--[共和国之辉]
+海豚----------------CDLPH--SonicZap--[共和国之辉]
+ 删除 无畏级战舰----------------CDRED--DredLauncher / DMISL--[共和国之辉]
+航空母舰----------------CCARRIER--HornetLauncher / HORNET--[共和国之辉]
 
-�й��ɿ󳵣�����--------CHOR **--[���͹�֮��]
-�й��ɿ�----------------CHAR--[���͹�֮��]
+中国采矿车（倒矿）--------CHOR **--[共和国之辉]
+中国采矿车----------------CHAR--[共和国之辉]
 
-����
+其他
 
-����----------CAR  ��ɫ  
-    ------EUROC ��ɫ  
-   -------SUVB ������  
-   -------STANG �ܳ���  
-   -------SUVW ������  
-У��---------BUS  
-ҰӪ��-------WINI  
-С����-------PICK  ������  
-    -----PTRUCK Ƥ����  
-����--------TRUCKA �Ա�������  
+汽车----------CAR  黄色  
+    ------EUROC 黑色  
+   -------SUVB 包厢型  
+   -------STANG 跑车型  
+   -------SUVW 包厢型  
+校车---------BUS  
+野营车-------WINI  
+小货车-------PICK  东风型  
+    -----PTRUCK 皮卡型  
+卡车--------TRUCKA 自爆卡车型  
   --------JEEP =YR  
-�������ػ�)--TRUCKB ������  
-�����γ�-----LIMO  
-�Ƴ̳�-------TAXI  
-����---------COP  
-������-------CONA  
-������-------PROPA  
-��ʿ----------DDBX =YR  
-��ɫ�Ƴ̳�-----BCAB =YR  
-��ɫ�Ƴ̳�-----YCAB =YR  
-��Ӱ��---------DOLY =YR  
-�糵----------CBLC =YR  
-�Ȼ�--------FTRK =YR  
-�Ȼ���--------AMBU =YR  
-����Ѳ�ߴ�--------------CDEST  
-�ϴ�--------------------TUG  
-�δ�--------------------CRUISE  
-�����Ⱥź���ĸ��--------CARRIERB  
-������η��ս��----------DREDB  
-ά����Ħָ�ӽ�----------VLAD  
+卡车（载货)--TRUCKB 东风型  
+豪华轿车-----LIMO  
+计程车-------TAXI  
+警车---------COP  
+挖土机-------CONA  
+宣传车-------PROPA  
+巴士----------DDBX =YR  
+黑色计程车-----BCAB =YR  
+黄色计程车-----YCAB =YR  
+摄影车---------DOLY =YR  
+电车----------CBLC =YR  
+救火车--------FTRK =YR  
+救护车--------AMBU =YR  
+海岸巡逻船--------------CDEST  
+拖船--------------------TUG  
+游船--------------------CRUISE  
+尼米兹号航空母舰--------CARRIERB  
+将军无畏级战舰----------DREDB  
+维拉迪摩指挥舰----------VLAD  
 
 
-============�ɻ���==============
+============飞机类==============
   
-�˾��վ�
+盟军空军
 
-ҹӥֱ����--------------SHAD--BlackHawkCannon  
-������ս��(AI��)--------ORCA--Maverick4--[���͹�֮��]
-          (�����)      ORCAB
-���ط�Ǳ��--------------ASW ** --ASWBomb  
-��Ʒ�------------------HORNET **--HornetBomb / HornetCollision  
+夜鹰直升机--------------SHAD--BlackHawkCannon  
+入侵者战机(AI造)--------ORCA--Maverick4--[共和国之辉]
+          (玩家造)      ORCAB
+舰载反潜机--------------ASW ** --ASWBomb  
+大黄蜂------------------HORNET **--HornetBomb / HornetCollision  
 
-����
+特殊
 
-��ӥս��----------------BEAG--Maverick2 
+黑鹰战机----------------BEAG--Maverick2 
 
-�վ��վ�
+苏军空军
 
-��¹ֱ����----------------HIND--BlackHawkCannon--[���͹�֮��]
-Χ��ֱ����--------------SCHP--BlackHawkCannon  160mm  
-Χ��ֱ������������̬��----------------SCHD--BlackHawkCannon
-������ͧ--------------ZEP--BlimpBomb  
-�׸�ս��----------------BPLN **--Maverick3  
-����ɻ�----------------SPYP **--SpyCameraWeapon  
-V3���------------------V3ROCKET **  
-��η������--------------DMISL ����
+雌鹿直升机----------------HIND--BlackHawkCannon--[共和国之辉]
+围攻直升机--------------SCHP--BlackHawkCannon  160mm  
+围攻直升机（部署形态）----------------SCHD--BlackHawkCannon
+基洛夫飞艇--------------ZEP--BlimpBomb  
+米格战机----------------BPLN **--Maverick3  
+间谍飞机----------------SPYP **--SpyCameraWeapon  
+V3火箭------------------V3ROCKET **  
+无畏级导弹--------------DMISL ··
 
-����վ�
+尤里空军
 
-�������� ------------------ ------- CMISL **
-�����¹�����----------YHIND
+雷鸣导弹 ------------------ ------- CMISL **
+尤里雌鹿运输机----------YHIND
   
-�й��վ�
+中国空军
 
-ҹӥֱ����----------------CSHAD--BlackHawkCannon--[���͹�֮��]
-��ӥս��----------------CBEAG--Maverick2--[���͹�֮��]
-�й�Χ��ֱ����--------------CSCHP--BlackHawkCannon  160mm  
-�й�Χ��ֱ������������̬��----------------CSCHD--BlackHawkCannon
+夜鹰直升机----------------CSHAD--BlackHawkCannon--[共和国之辉]
+黑鹰战机----------------CBEAG--Maverick2--[共和国之辉]
+中国围攻直升机--------------CSCHP--BlackHawkCannon  160mm  
+中国围攻直升机（部署形态）----------------CSCHD--BlackHawkCannon
 
-����
+其他
 
-�����-----------------PDPLANE 
+运输机-----------------PDPLANE 
