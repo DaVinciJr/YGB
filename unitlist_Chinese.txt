@@ -201,7 +201,7 @@ CAMISC01-02  油桶
                         CIVAN3   尤 偷 中
 尤里改------------------YURIPP   尤 偷 尤[隐藏]--SuperMindControl--[共和国之辉]
                                  中 偷 尤
-狙击战斗兵------------LONGSTLN  苏 偷 尤
+狙击战斗兵------------LONGSTLN  苏 偷 尤--
                         LONGSTLN2 尤 偷 苏
                         LONGSTLN3 盟 偷 中
 冲锋伊文兵--------------IVANSTLN  苏 偷 苏
